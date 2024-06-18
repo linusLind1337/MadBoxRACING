@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3566574650604493087
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7148291728751052661}
+  m_Layer: 0
+  m_Name: Hay prefab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7148291728751052661
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3566574650604493087}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.2794582, y: 0.7460001, z: -7.2793627}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7080871271499873788}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &7336073086929328663
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7148291728751052661}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 8d51803ed9c75a641a369832825a583b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.2794582
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d51803ed9c75a641a369832825a583b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.7460001
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d51803ed9c75a641a369832825a583b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 7.2793627
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d51803ed9c75a641a369832825a583b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d51803ed9c75a641a369832825a583b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d51803ed9c75a641a369832825a583b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d51803ed9c75a641a369832825a583b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d51803ed9c75a641a369832825a583b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d51803ed9c75a641a369832825a583b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d51803ed9c75a641a369832825a583b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 8d51803ed9c75a641a369832825a583b,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b48814ffc729dac41a345681f6b3819f, type: 2}
+    - target: {fileID: 919132149155446097, guid: 8d51803ed9c75a641a369832825a583b,
+        type: 3}
+      propertyPath: m_Name
+      value: Hay UV good (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8d51803ed9c75a641a369832825a583b, type: 3}
+--- !u!4 &7080871271499873788 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 8d51803ed9c75a641a369832825a583b,
+    type: 3}
+  m_PrefabInstance: {fileID: 7336073086929328663}
+  m_PrefabAsset: {fileID: 0}

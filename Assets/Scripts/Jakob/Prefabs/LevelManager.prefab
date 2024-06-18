@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5842695434949114705
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1270876590645773953}
+  - component: {fileID: 6973358305379343764}
+  - component: {fileID: 2517838032900119432}
+  - component: {fileID: 4481617763143839437}
+  - component: {fileID: 499523096655791531}
+  - component: {fileID: 6749852786086735583}
+  m_Layer: 0
+  m_Name: LevelManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1270876590645773953
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5842695434949114705}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 626.15, y: 291.46146, z: 767.53955}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6973358305379343764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5842695434949114705}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf7fc1857237a064a89ad9d299c9af04, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  highlightPassed: {fileID: 11400000, guid: a9391b7adb10fbe4eb97229a3f0faa72, type: 2}
+  finishLinePassed: {fileID: 11400000, guid: 5b85a2d7774b05346a5d1b1075364136, type: 2}
+  highlightRenderTexture: {fileID: 8400000, guid: a6940051b98989e46a89c888c950f10b,
+    type: 2}
+  replayFrameImages: []
+  sequencedFrames: []
+  highlightCamera: {fileID: 0}
+  highlightCameraAnchorPoints:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  replayData: {fileID: 11400000, guid: 9f8456db4f812d649bc88f121300eba5, type: 2}
+  rawImageReplayPlayback: {fileID: 0}
+--- !u!114 &2517838032900119432
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5842695434949114705}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2138c36d9f2b7094a84cf5664e95f286, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerGhost: {fileID: 11400000, guid: 0a6cb69e86854d04399a759f811c880d, type: 2}
+  actionVoidRaceStarted: {fileID: 11400000, guid: 16fc88fc42c4e524cbd92d02bfd7dbae,
+    type: 2}
+--- !u!114 &4481617763143839437
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5842695434949114705}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cc3fc8010419b443aff3da976023ccc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  finishLinePassed: {fileID: 11400000, guid: 5b85a2d7774b05346a5d1b1075364136, type: 2}
+  currentLevelData: {fileID: 0}
+  timer: {fileID: 0}
+  timeToBeat: {fileID: 0}
+--- !u!114 &499523096655791531
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5842695434949114705}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddb95154e25e6694aac4e6a4b812fdd1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  actionVoidLevelFinishedLoading: {fileID: 11400000, guid: 97e8dbb9576c7c8408b4332261a7cd9f,
+    type: 2}
+  actionVoidRaceStarted: {fileID: 11400000, guid: 16fc88fc42c4e524cbd92d02bfd7dbae,
+    type: 2}
+  actionIntCountdownStep: {fileID: 11400000, guid: 6af77351356688048adca91d4ff886e2,
+    type: 2}
+  actionIntDelayUntilButton: {fileID: 11400000, guid: 6af77351356688048adca91d4ff886e2,
+    type: 2}
+  actionVoidCountdownFinished: {fileID: 11400000, guid: beee4625ce8215a42bb74dc904b3c18a,
+    type: 2}
+  actionVoidCountdownRed: {fileID: 11400000, guid: 3f2e6d359dbd0044e826cd6d08ced967,
+    type: 2}
+  actionVoidCountdownYellow: {fileID: 11400000, guid: 9f2b46bc982bcac45b972b69318e517f,
+    type: 2}
+  actionVoidCountdownGreen: {fileID: 11400000, guid: 94e4eb842f206c842bc3d739c7f2cf06,
+    type: 2}
+  delayBetweenLights: 1
+  delayBeforeButton: 1
+  startLights:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  startButton: {fileID: 0}
+--- !u!114 &6749852786086735583
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5842695434949114705}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf9d684c29328c64e82bc92d038cb9cd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  car: {fileID: 0}
+  resetPoints: []
+  resetPointsIndex: 0
+  updateResetPoints: {fileID: 0}

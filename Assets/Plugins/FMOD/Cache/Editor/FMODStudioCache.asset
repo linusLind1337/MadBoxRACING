@@ -1,0 +1,3493 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9184260477765217706
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/CheesyHill UPCOMING 1
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/CheesyHill UPCOMING 1
+  Guid:
+    Data1: 1433191607
+    Data2: 1162916291
+    Data3: 1500087198
+    Data4: 1074100273
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1296
+--- !u!114 &-9124143033018875596
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/Baguette 1
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/Baguette 1
+  Guid:
+    Data1: 132132243
+    Data2: 1200427310
+    Data3: 2055381640
+    Data4: -1847529119
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1344
+--- !u!114 &-9001165196748324590
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/BGM/BGM - Wavecont - Inspire
+  m_EditorClassIdentifier: 
+  Path: event:/BGM/BGM - Wavecont - Inspire
+  Guid:
+    Data1: -1769387553
+    Data2: 1144345604
+    Data3: 2065050270
+    Data4: -1657067266
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 251500
+--- !u!114 &-8906805192658383010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/GoodLanding/SlowAndSteadyUPCOMING COMPLETE
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/GoodLanding/SlowAndSteadyUPCOMING COMPLETE
+  Guid:
+    Data1: -1195543834
+    Data2: 1322240388
+    Data3: 1260437432
+    Data4: 1400288136
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1296
+--- !u!114 &-8209651762582370971
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/Baguette 2
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/Baguette 2
+  Guid:
+    Data1: -900707018
+    Data2: 1249416207
+    Data3: -1492837749
+    Data4: 1881296740
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1488
+--- !u!114 &-7998721340972928967
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/AandTheyMadeIt/LowerVolume
+  m_EditorClassIdentifier: 
+  Name: LowerVolume
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1983163330
+    data2: 490393504
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-7976882153761551359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/BGM/BGM - Rock 2
+  m_EditorClassIdentifier: 
+  Path: event:/BGM/BGM - Rock 2
+  Guid:
+    Data1: -182911030
+    Data2: 1231387026
+    Data3: 784105659
+    Data4: -2058059424
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 117306
+--- !u!114 &-7961318621940334047
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/GoodLanding/NoProblemWhatsoever
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/GoodLanding/NoProblemWhatsoever
+  Guid:
+    Data1: 752669184
+    Data2: 1315774049
+    Data3: 119928761
+    Data4: -904901509
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1704
+--- !u!114 &-7934646958068573468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/GoodLanding/SlipperyWavesDone
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/GoodLanding/SlipperyWavesDone
+  Guid:
+    Data1: 718851675
+    Data2: 1172623232
+    Data3: 420472252
+    Data4: -1999230218
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1512
+--- !u!114 &-7593075260326837431
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/Chicane!
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/Chicane!
+  Guid:
+    Data1: -2107135384
+    Data2: 1262601821
+    Data3: 2035968153
+    Data4: 1844122086
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 6715690553252449803}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1008
+--- !u!114 &-7411420099980471721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/FinishRace/AndHeresTheTurborillaActionCam
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/FinishRace/AndHeresTheTurborillaActionCam
+  Guid:
+    Data1: 1012331100
+    Data2: 1089172740
+    Data3: -49455688
+    Data4: -371513904
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2136
+--- !u!114 &-7340287751122106839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Crashes/YouDontSeeThatEveryDay
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Crashes/YouDontSeeThatEveryDay
+  Guid:
+    Data1: -1976499665
+    Data2: 1320296156
+    Data3: -969256317
+    Data4: -1712055759
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 1324615981968926809}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2592
+--- !u!114 &-6716192173462819105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Start/Three_Two_One
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Start/Three_Two_One
+  Guid:
+    Data1: 1423596730
+    Data2: 1102667105
+    Data3: -550557520
+    Data4: -345434379
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 2535603333899755217}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2952
+--- !u!114 &-6685404625716847541
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/GoodLanding/CheesyHill COMPLETE 1
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/GoodLanding/CheesyHill COMPLETE 1
+  Guid:
+    Data1: 2064997411
+    Data2: 1096233768
+    Data3: 239933363
+    Data4: -1584730341
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1488
+--- !u!114 &-6214765378327534960
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Start/SoftThree_Two_One
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Start/SoftThree_Two_One
+  Guid:
+    Data1: 1786428129
+    Data2: 1148088548
+    Data3: -957736309
+    Data4: 772556071
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 2544283115796052876}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2184
+--- !u!114 &-6179628318457409136
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMOD_SoapBox/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638435982476578555
+  FileSizes:
+  - Name: Desktop
+    Value: 13335936
+  Exists: 1
+--- !u!114 &-5775285782716309787
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/LetSeeIfTheyBraveTheRampUPCOMING
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/LetSeeIfTheyBraveTheRampUPCOMING
+  Guid:
+    Data1: 581416240
+    Data2: 1096130004
+    Data3: 1625336988
+    Data4: 1426023016
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1896
+--- !u!114 &-5773320919279080500
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/RampComingUpUPCOMING
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/RampComingUpUPCOMING
+  Guid:
+    Data1: 1218319105
+    Data2: 1259078354
+    Data3: 189133445
+    Data4: 1927901623
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 820
+--- !u!114 &-5335775956831180424
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sounds/CoinPickup2
+  m_EditorClassIdentifier: 
+  Path: event:/Sounds/CoinPickup2
+  Guid:
+    Data1: 897449138
+    Data2: 1184159378
+    Data3: 1185671099
+    Data4: 1296153492
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 950
+--- !u!114 &-5259940243485050319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/BGM/BGM - Rock song
+  m_EditorClassIdentifier: 
+  Path: event:/BGM/BGM - Rock song
+  Guid:
+    Data1: 1352811730
+    Data2: 1132386419
+    Data3: 807091868
+    Data4: 614730761
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1152
+--- !u!114 &-5157145322191754202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/TheyAreGonnaBeHappyAboutThatOne
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/TheyAreGonnaBeHappyAboutThatOne
+  Guid:
+    Data1: 1063921150
+    Data2: 1221487515
+    Data3: -496993393
+    Data4: -339980104
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2088
+--- !u!114 &-5137624509657663005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/AnotherJumpComingUp/LowerVolume
+  m_EditorClassIdentifier: 
+  Name: LowerVolume
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1983163330
+    data2: 490393504
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-5061037795724833669
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sounds/RandomCrashSoundCompilation
+  m_EditorClassIdentifier: 
+  Path: event:/Sounds/RandomCrashSoundCompilation
+  Guid:
+    Data1: 1923921928
+    Data2: 1119498673
+    Data3: 2065183650
+    Data4: 373637991
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 640
+--- !u!114 &-4882621541157711290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sounds/Scraping
+  m_EditorClassIdentifier: 
+  Path: event:/Sounds/Scraping
+  Guid:
+    Data1: 1228894098
+    Data2: 1193430313
+    Data3: 216715156
+    Data4: -1918330976
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 500
+--- !u!114 &-4852691858343694869
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/RightTurn 3
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/RightTurn 3
+  Guid:
+    Data1: -685776864
+    Data2: 1115523069
+    Data3: -741829221
+    Data4: 1301796640
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 864
+--- !u!114 &-4804685333898375379
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/Finish UPCOMING 2
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/Finish UPCOMING 2
+  Guid:
+    Data1: 1210783860
+    Data2: 1312642229
+    Data3: -215555910
+    Data4: 1242247786
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1560
+--- !u!114 &-4739175730426038320
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Chicayne!/LowerVolume
+  m_EditorClassIdentifier: 
+  Name: LowerVolume
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1983163330
+    data2: 490393504
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-4524860898665983196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sounds/PSOButton
+  m_EditorClassIdentifier: 
+  Path: event:/Sounds/PSOButton
+  Guid:
+    Data1: -380306557
+    Data2: 1096708460
+    Data3: 1850606218
+    Data4: -1036008833
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1421
+--- !u!114 &-4481054738628768873
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/WhatACRashFeelThatTomorrow/LowerVolume
+  m_EditorClassIdentifier: 
+  Name: LowerVolume
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1983163330
+    data2: 490393504
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-4323467638705915695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Start/Three_Two_One_ANDOFF
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Start/Three_Two_One_ANDOFF
+  Guid:
+    Data1: -1868527292
+    Data2: 1146732800
+    Data3: -560063613
+    Data4: -392870968
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 6039988291013655307}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3576
+--- !u!114 &-4187047379289409206
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/FirstJump 3
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/FirstJump 3
+  Guid:
+    Data1: -1155544480
+    Data2: 1224363427
+    Data3: -1613245764
+    Data4: 1841839380
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1392
+--- !u!114 &-4101288639622007346
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/ReadyYourCameras
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/ReadyYourCameras
+  Guid:
+    Data1: 1116988673
+    Data2: 1177198843
+    Data3: -973848927
+    Data4: 1835759128
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -2133453928079423718}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3744
+--- !u!114 &-4096166480180198304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambience/AmbienceMALE
+  m_EditorClassIdentifier: 
+  Path: event:/Ambience/AmbienceMALE
+  Guid:
+    Data1: -1227344917
+    Data2: 1083879128
+    Data3: 234402716
+    Data4: -1774299813
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 23500
+--- !u!114 &-4011994599298359997
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/BGM 1 FULL/StartSong
+  m_EditorClassIdentifier: 
+  Name: StartSong
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 2086682293
+    data2: 643002930
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-3938011980441865205
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/GoodLanding/AllThreeTs
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/GoodLanding/AllThreeTs
+  Guid:
+    Data1: -1642834724
+    Data2: 1201901993
+    Data3: 2045147033
+    Data4: 1552396249
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 5136
+--- !u!114 &-3903279124973752622
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/GoodLanding/CompleteBaguette
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/GoodLanding/CompleteBaguette
+  Guid:
+    Data1: -1272970481
+    Data2: 1125249614
+    Data3: -1123539551
+    Data4: -1383641683
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2592
+--- !u!114 &-3858670017552537488
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/WhatALanding/LowerVolume
+  m_EditorClassIdentifier: 
+  Name: LowerVolume
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1983163330
+    data2: 490393504
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-3753161705566079761
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sounds/GREEN
+  m_EditorClassIdentifier: 
+  Path: event:/Sounds/GREEN
+  Guid:
+    Data1: -1337289820
+    Data2: 1227550912
+    Data3: -591034222
+    Data4: 1310136612
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1040
+--- !u!114 &-3750395165421310799
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMOD_SoapBox/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638435982476588559
+  FileSizes:
+  - Name: Desktop
+    Value: 6694
+  Exists: 1
+--- !u!114 &-3685282743384845362
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/BGM/BGM by Fretbound.com
+  m_EditorClassIdentifier: 
+  Path: event:/BGM/BGM by Fretbound.com
+  Guid:
+    Data1: -467346946
+    Data2: 1211935126
+    Data3: 47629464
+    Data4: -143212224
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 153924
+--- !u!114 &-3495720956177940095
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Start/Race START MI
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Start/Race START MI
+  Guid:
+    Data1: -1968142085
+    Data2: 1248565596
+    Data3: -1452879198
+    Data4: -1919182140
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2000
+--- !u!114 &-3435104191464566455
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/GoodLanding/PerfectLanding
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/GoodLanding/PerfectLanding
+  Guid:
+    Data1: -81603155
+    Data2: 1165172431
+    Data3: 864943284
+    Data4: -747929318
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 1792204615336172691}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1440
+--- !u!114 &-3030919161779346463
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Crashes/AndThereGoesFrontBumper
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Crashes/AndThereGoesFrontBumper
+  Guid:
+    Data1: -2044827181
+    Data2: 1150191142
+    Data3: -939090761
+    Data4: -743792431
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2304
+--- !u!114 &-3010358018463332307
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambience/CrowdWinning
+  m_EditorClassIdentifier: 
+  Path: event:/Ambience/CrowdWinning
+  Guid:
+    Data1: 528481083
+    Data2: 1183641563
+    Data3: 778270642
+    Data4: 1958111786
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 5000
+--- !u!114 &-2948242555276983972
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/RightTurn 1
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/RightTurn 1
+  Guid:
+    Data1: 1893919325
+    Data2: 1096138176
+    Data3: -1422522437
+    Data4: -2145176583
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1104
+--- !u!114 &-2700363523046598387
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/GoodLanding/RampCOMPLETED
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/GoodLanding/RampCOMPLETED
+  Guid:
+    Data1: -964039562
+    Data2: 1164073215
+    Data3: 839038640
+    Data4: -28047286
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1392
+--- !u!114 &-2621135722906033831
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Start/HelloWelcomeStMichel
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Start/HelloWelcomeStMichel
+  Guid:
+    Data1: 1756798522
+    Data2: 1171131306
+    Data3: 1747023503
+    Data4: 969849779
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -392631267463622665}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2880
+--- !u!114 &-2369859172779791594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/SlipperyWavesUpNextUPCOMING
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/SlipperyWavesUpNextUPCOMING
+  Guid:
+    Data1: 157855108
+    Data2: 1243520144
+    Data3: 434511548
+    Data4: 1442708614
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1704
+--- !u!114 &-2322496846162353528
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/CheesyHill UPCOMING 2
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/CheesyHill UPCOMING 2
+  Guid:
+    Data1: -1808215972
+    Data2: 1240638621
+    Data3: 104052123
+    Data4: 508844083
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1056
+--- !u!114 &-2133453928079423718
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/ReadyYourCameras/LowerVolume
+  m_EditorClassIdentifier: 
+  Name: LowerVolume
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1983163330
+    data2: 490393504
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-1950614091325555813
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/GoodLanding/BrilliantTurningAngleCOMPLETED
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/GoodLanding/BrilliantTurningAngleCOMPLETED
+  Guid:
+    Data1: -1355577048
+    Data2: 1309156489
+    Data3: -1087150193
+    Data4: -1272583297
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1488
+--- !u!114 &-1768188840285323728
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/RightTurn 4
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/RightTurn 4
+  Guid:
+    Data1: -802668597
+    Data2: 1112268142
+    Data3: 100264122
+    Data4: 991854076
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1056
+--- !u!114 &-1682043404033408554
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/Chicayne!
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/Chicayne!
+  Guid:
+    Data1: 1034649094
+    Data2: 1089535067
+    Data3: 995434161
+    Data4: 22121259
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -4739175730426038320}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1008
+--- !u!114 &-1637183547817887322
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/FirstJump 2
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/FirstJump 2
+  Guid:
+    Data1: -166109434
+    Data2: 1099955397
+    Data3: -650297167
+    Data4: 407362949
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 960
+--- !u!114 &-1296935280546618762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/ThatsWhatWereHereFor/LowerVolume
+  m_EditorClassIdentifier: 
+  Name: LowerVolume
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1983163330
+    data2: 490393504
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-1284257022827315664
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/GoodLanding/NiceJump
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/GoodLanding/NiceJump
+  Guid:
+    Data1: 1660219144
+    Data2: 1108269354
+    Data3: 1319705736
+    Data4: 275697719
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 9143175981825127096}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 912
+--- !u!114 &-1267306772587866396
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Crashes/OrganizersCleanUp
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Crashes/OrganizersCleanUp
+  Guid:
+    Data1: -1677619783
+    Data2: 1154769505
+    Data3: -1648659563
+    Data4: 1977545691
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -880438199825933653}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3192
+--- !u!114 &-1064977053082900181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/AlmostAtTheFinishLine
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/AlmostAtTheFinishLine
+  Guid:
+    Data1: 2111478118
+    Data2: 1301969723
+    Data3: 1511196848
+    Data4: 915035091
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 5186221152843387347}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1560
+--- !u!114 &-999018634477357532
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/BGM/BGM - Chill
+  m_EditorClassIdentifier: 
+  Path: event:/BGM/BGM - Chill
+  Guid:
+    Data1: 1278620253
+    Data2: 1106100104
+    Data3: -1207224398
+    Data4: -707945980
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 130500
+--- !u!114 &-944779208503408983
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/UpcomingBaguette
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/UpcomingBaguette
+  Guid:
+    Data1: 1958469551
+    Data2: 1335155717
+    Data3: -1328523345
+    Data4: -170465597
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1488
+--- !u!114 &-929817315769934196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/GoodLanding/WhatALanding
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/GoodLanding/WhatALanding
+  Guid:
+    Data1: -877613564
+    Data2: 1253288056
+    Data3: -1340611440
+    Data4: 81000517
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -3858670017552537488}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2400
+--- !u!114 &-880438199825933653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/OrganizersCleanUp/LowerVolume
+  m_EditorClassIdentifier: 
+  Name: LowerVolume
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1983163330
+    data2: 490393504
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-835991542310009632
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/GoodLanding/Easy2
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/GoodLanding/Easy2
+  Guid:
+    Data1: -370786952
+    Data2: 1090925702
+    Data3: 275630262
+    Data4: -1269660986
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 768
+--- !u!114 &-699721083151939342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sounds/PoringButtonWParameter
+  m_EditorClassIdentifier: 
+  Path: event:/Sounds/PoringButtonWParameter
+  Guid:
+    Data1: 164085843
+    Data2: 1178805514
+    Data3: 1650376839
+    Data4: -1118656153
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 7324997614701432866}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 261
+--- !u!114 &-660997900896497385
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/BGM/BGM 1 FULL
+  m_EditorClassIdentifier: 
+  Path: event:/BGM/BGM 1 FULL
+  Guid:
+    Data1: 1512260846
+    Data2: 1225842281
+    Data3: -1754175050
+    Data4: -610577917
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -4011994599298359997}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 114706
+--- !u!114 &-392631267463622665
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/HelloWelcomeStMichel/LowerVolume
+  m_EditorClassIdentifier: 
+  Name: LowerVolume
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1983163330
+    data2: 490393504
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-359530832231399716
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambience/PlaneSound
+  m_EditorClassIdentifier: 
+  Path: event:/Ambience/PlaneSound
+  Guid:
+    Data1: -475105499
+    Data2: 1103076749
+    Data3: -1092678218
+    Data4: -2145122014
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 114912
+--- !u!114 &-69607938438805460
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sounds/Click
+  m_EditorClassIdentifier: 
+  Path: event:/Sounds/Click
+  Guid:
+    Data1: 1013270104
+    Data2: 1111648570
+    Data3: 1322138260
+    Data4: -1534000693
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 456
+--- !u!114 &-18241407279308549
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambience/AmbienceFEMALE
+  m_EditorClassIdentifier: 
+  Path: event:/Ambience/AmbienceFEMALE
+  Guid:
+    Data1: 1844438614
+    Data2: 1170907727
+    Data3: 1460119708
+    Data4: -761279572
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 23000
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -3750395165421310799}
+  - {fileID: -6179628318457409136}
+  EditorEvents:
+  - {fileID: -4101288639622007346}
+  - {fileID: -929817315769934196}
+  - {fileID: -1637183547817887322}
+  - {fileID: -1682043404033408554}
+  - {fileID: -5061037795724833669}
+  - {fileID: -1284257022827315664}
+  - {fileID: 6427803791668785606}
+  - {fileID: -3903279124973752622}
+  - {fileID: 3887210577729347638}
+  - {fileID: -4852691858343694869}
+  - {fileID: -6685404625716847541}
+  - {fileID: -7340287751122106839}
+  - {fileID: 2886331662234664150}
+  - {fileID: -8209651762582370971}
+  - {fileID: -2621135722906033831}
+  - {fileID: 7578215727341528395}
+  - {fileID: 8862845259608610040}
+  - {fileID: -4323467638705915695}
+  - {fileID: 6435429632159615048}
+  - {fileID: 3046999828021863827}
+  - {fileID: -18241407279308549}
+  - {fileID: -2322496846162353528}
+  - {fileID: -7411420099980471721}
+  - {fileID: -999018634477357532}
+  - {fileID: -2948242555276983972}
+  - {fileID: -4187047379289409206}
+  - {fileID: 2357773143591274944}
+  - {fileID: -1064977053082900181}
+  - {fileID: -7593075260326837431}
+  - {fileID: 501684929858347246}
+  - {fileID: -4804685333898375379}
+  - {fileID: -4524860898665983196}
+  - {fileID: 4357010974467359228}
+  - {fileID: 7991987099479859485}
+  - {fileID: -9124143033018875596}
+  - {fileID: 6832846164893440532}
+  - {fileID: 7354963953117555644}
+  - {fileID: 4425260066495158347}
+  - {fileID: 941985066889366842}
+  - {fileID: 704153342861561}
+  - {fileID: -3435104191464566455}
+  - {fileID: -944779208503408983}
+  - {fileID: 5698254566067418623}
+  - {fileID: -9184260477765217706}
+  - {fileID: -1267306772587866396}
+  - {fileID: -6716192173462819105}
+  - {fileID: 579757286591575720}
+  - {fileID: 8317813723516298036}
+  - {fileID: 7473076556493954497}
+  - {fileID: -1768188840285323728}
+  - {fileID: 8529483685190906281}
+  - {fileID: -3030919161779346463}
+  - {fileID: 1843358819894709907}
+  - {fileID: 8595743389867382382}
+  - {fileID: -3938011980441865205}
+  - {fileID: 1496782570553094750}
+  - {fileID: -6214765378327534960}
+  - {fileID: -4096166480180198304}
+  - {fileID: 6603545455623458332}
+  - {fileID: 6388760335480062310}
+  - {fileID: -3495720956177940095}
+  - {fileID: -5773320919279080500}
+  - {fileID: 918859944302883685}
+  - {fileID: 4704080932057154722}
+  - {fileID: -359530832231399716}
+  - {fileID: -1950614091325555813}
+  - {fileID: -5775285782716309787}
+  - {fileID: -3010358018463332307}
+  - {fileID: 60874370770025377}
+  - {fileID: -699721083151939342}
+  - {fileID: -69607938438805460}
+  - {fileID: 595274893071392122}
+  - {fileID: 2897042766390299841}
+  - {fileID: 3192350800438496770}
+  - {fileID: 322235379277359529}
+  - {fileID: -2700363523046598387}
+  - {fileID: -4882621541157711290}
+  - {fileID: 8795487731981716136}
+  - {fileID: -3753161705566079761}
+  - {fileID: -5335775956831180424}
+  - {fileID: 5894965664408744765}
+  - {fileID: 6801447103124406485}
+  - {fileID: -7976882153761551359}
+  - {fileID: -5259940243485050319}
+  - {fileID: -9001165196748324590}
+  - {fileID: -3685282743384845362}
+  - {fileID: -7961318621940334047}
+  - {fileID: 6956062680522666015}
+  - {fileID: 6232757150583845853}
+  - {fileID: 4468527331251949809}
+  - {fileID: 9074394138391951187}
+  - {fileID: -7934646958068573468}
+  - {fileID: 2500875085316865705}
+  - {fileID: -835991542310009632}
+  - {fileID: -2369859172779791594}
+  - {fileID: 4821209465480164332}
+  - {fileID: 5357699817086731298}
+  - {fileID: 3988190007885569089}
+  - {fileID: -8906805192658383010}
+  - {fileID: -660997900896497385}
+  - {fileID: -5157145322191754202}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: -6179628318457409136}
+  StringsBanks:
+  - {fileID: -3750395165421310799}
+  cacheTime: 638435982476588559
+  cacheVersion: 131616
+--- !u!114 &704153342861561
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/FinishRace/LetsCheckOutTheTurborillaActionCam
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/FinishRace/LetsCheckOutTheTurborillaActionCam
+  Guid:
+    Data1: 893873837
+    Data2: 1169706564
+    Data3: 1026366644
+    Data4: -126212932
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2448
+--- !u!114 &60874370770025377
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/LastRampUPCOMING
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/LastRampUPCOMING
+  Guid:
+    Data1: -1438337984
+    Data2: 1141841581
+    Data3: -1839058021
+    Data4: 2088405440
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 912
+--- !u!114 &322235379277359529
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/StartingOfWithARampUPCOMING
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/StartingOfWithARampUPCOMING
+  Guid:
+    Data1: 1732885612
+    Data2: 1086003282
+    Data3: 1040162451
+    Data4: 1422453233
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1488
+--- !u!114 &501684929858347246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/FirstJump 1
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/FirstJump 1
+  Guid:
+    Data1: -76545935
+    Data2: 1229765305
+    Data3: 167288448
+    Data4: 1809432446
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1296
+--- !u!114 &579757286591575720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/GoodLanding/NiceLanding
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/GoodLanding/NiceLanding
+  Guid:
+    Data1: -559390278
+    Data2: 1259282474
+    Data3: 1158347964
+    Data4: 744934750
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 1289384127930844863}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1056
+--- !u!114 &595274893071392122
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sounds/Go!
+  m_EditorClassIdentifier: 
+  Path: event:/Sounds/Go!
+  Guid:
+    Data1: -93029287
+    Data2: 1228295688
+    Data3: 472611976
+    Data4: -599662050
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2224
+--- !u!114 &918859944302883685
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/GoodLanding/MaybeNextTime
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/GoodLanding/MaybeNextTime
+  Guid:
+    Data1: -1234610159
+    Data2: 1244997718
+    Data3: 1535773856
+    Data4: -386483965
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1392
+--- !u!114 &941985066889366842
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/AnotherJumpComingUp
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/AnotherJumpComingUp
+  Guid:
+    Data1: 1387404971
+    Data2: 1131840207
+    Data3: -391614328
+    Data4: -603718537
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -5137624509657663005}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1392
+--- !u!114 &1289384127930844863
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/NiceLanding/LowerVolume
+  m_EditorClassIdentifier: 
+  Name: LowerVolume
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1983163330
+    data2: 490393504
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &1324615981968926809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/YouDontSeeThatEveryDay/LowerVolume
+  m_EditorClassIdentifier: 
+  Name: LowerVolume
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1983163330
+    data2: 490393504
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &1496782570553094750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Crashes/WhatACRashFeelThatTomorrow
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Crashes/WhatACRashFeelThatTomorrow
+  Guid:
+    Data1: -1428467745
+    Data2: 1092551415
+    Data3: -967952210
+    Data4: -1355365163
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -4481054738628768873}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 4176
+--- !u!114 &1792204615336172691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/PerfectLanding/LowerVolume
+  m_EditorClassIdentifier: 
+  Name: LowerVolume
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1983163330
+    data2: 490393504
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &1843358819894709907
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/Finish UPCOMING 3
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/Finish UPCOMING 3
+  Guid:
+    Data1: -6825004
+    Data2: 1272367691
+    Data3: -1516632671
+    Data4: 1394306800
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1560
+--- !u!114 &2177176945668456714
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/OKThatFellOff/LowerVolume
+  m_EditorClassIdentifier: 
+  Name: LowerVolume
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1983163330
+    data2: 490393504
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &2357773143591274944
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/10CMJumpComingUp
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/10CMJumpComingUp
+  Guid:
+    Data1: 647315812
+    Data2: 1148413805
+    Data3: 841269668
+    Data4: -1008840637
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 4839396913399148982}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3984
+--- !u!114 &2500875085316865705
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/ON IT/OnTheRamp ON IT
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/ON IT/OnTheRamp ON IT
+  Guid:
+    Data1: -1828013462
+    Data2: 1207771595
+    Data3: -1193441089
+    Data4: 711320082
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1008
+--- !u!114 &2535603333899755217
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Three_Two_One/LowerVolume
+  m_EditorClassIdentifier: 
+  Name: LowerVolume
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1983163330
+    data2: 490393504
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &2544283115796052876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/SoftThree_Two_One/LowerVolume
+  m_EditorClassIdentifier: 
+  Name: LowerVolume
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1983163330
+    data2: 490393504
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &2886331662234664150
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/UpcomingRightTurn
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/UpcomingRightTurn
+  Guid:
+    Data1: 1178945077
+    Data2: 1241027945
+    Data3: 576838827
+    Data4: 813575994
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1060
+--- !u!114 &2897042766390299841
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/HeadingForAnotherRampUPCOMING
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/HeadingForAnotherRampUPCOMING
+  Guid:
+    Data1: -832884897
+    Data2: 1340863907
+    Data3: -554513225
+    Data4: 1410077768
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1344
+--- !u!114 &3046999828021863827
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sounds/PoringButton
+  m_EditorClassIdentifier: 
+  Path: event:/Sounds/PoringButton
+  Guid:
+    Data1: 1932058192
+    Data2: 1282868941
+    Data3: 1557727416
+    Data4: -144567747
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 456
+--- !u!114 &3192350800438496770
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/GatheringSpeedForTheRampUPCOMING
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/GatheringSpeedForTheRampUPCOMING
+  Guid:
+    Data1: 423287399
+    Data2: 1189953825
+    Data3: 1825651119
+    Data4: 1906686540
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1560
+--- !u!114 &3592068826513936362
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/BGM 1 Loop/StartSong
+  m_EditorClassIdentifier: 
+  Name: StartSong
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 2086682293
+    data2: 643002930
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &3887210577729347638
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/FinishRace/Turborilla Action Cam
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/FinishRace/Turborilla Action Cam
+  Guid:
+    Data1: 535043611
+    Data2: 1141885541
+    Data3: 874896304
+    Data4: 311845968
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1608
+--- !u!114 &3988190007885569089
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/AreTheyGoingForTheRamp
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/AreTheyGoingForTheRamp
+  Guid:
+    Data1: -1747098406
+    Data2: 1234314947
+    Data3: -984341575
+    Data4: 1930052729
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1656
+--- !u!114 &4357010974467359228
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Crashes/ThatsWhatWereHereFor
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Crashes/ThatsWhatWereHereFor
+  Guid:
+    Data1: -210999410
+    Data2: 1335071100
+    Data3: 1643036094
+    Data4: 21303516
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -1296935280546618762}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3528
+--- !u!114 &4425260066495158347
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sounds/SonarButton
+  m_EditorClassIdentifier: 
+  Path: event:/Sounds/SonarButton
+  Guid:
+    Data1: -1330632022
+    Data2: 1315743090
+    Data3: -640831354
+    Data4: 2026177019
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 650
+--- !u!114 &4468527331251949809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/BGM/BGM 1 Loop
+  m_EditorClassIdentifier: 
+  Path: event:/BGM/BGM 1 Loop
+  Guid:
+    Data1: -1940269507
+    Data2: 1174201242
+    Data3: -1756750146
+    Data4: -1415756404
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 3592068826513936362}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2600
+--- !u!114 &4704080932057154722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sounds/YELLOW
+  m_EditorClassIdentifier: 
+  Path: event:/Sounds/YELLOW
+  Guid:
+    Data1: 466873881
+    Data2: 1190857430
+    Data3: 228033966
+    Data4: -894598999
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1100
+--- !u!114 &4821209465480164332
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/AnotherRamp
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/AnotherRamp
+  Guid:
+    Data1: 1728723113
+    Data2: 1106358350
+    Data3: -1481743488
+    Data4: 164623951
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1152
+--- !u!114 &4839396913399148982
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/10CMJumpComingUp/LowerVolume
+  m_EditorClassIdentifier: 
+  Name: LowerVolume
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1983163330
+    data2: 490393504
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &5186221152843387347
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/AlmostAtTheFinishLine/LowerVolume
+  m_EditorClassIdentifier: 
+  Name: LowerVolume
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1983163330
+    data2: 490393504
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &5357699817086731298
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/GoodLanding/SlipperyWavesNotSlippyEnough
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/GoodLanding/SlipperyWavesNotSlippyEnough
+  Guid:
+    Data1: -1675511377
+    Data2: 1143837487
+    Data3: -173001815
+    Data4: -1520877157
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2400
+--- !u!114 &5698254566067418623
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/Finish UPCOMING 1
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/Finish UPCOMING 1
+  Guid:
+    Data1: -1255896138
+    Data2: 1320234705
+    Data3: 254144672
+    Data4: 1023712813
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1848
+--- !u!114 &5894965664408744765
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/WinningSound/CrowdWistling
+  m_EditorClassIdentifier: 
+  Path: event:/WinningSound/CrowdWistling
+  Guid:
+    Data1: 1714285493
+    Data2: 1307269942
+    Data3: -904440941
+    Data4: 849468596
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 7500
+--- !u!114 &6039988291013655307
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Three_Two_One_ANDOFF/LowerVolume
+  m_EditorClassIdentifier: 
+  Name: LowerVolume
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1983163330
+    data2: 490393504
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &6232757150583845853
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/LastObstacleBeforeTheSprint
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/LastObstacleBeforeTheSprint
+  Guid:
+    Data1: 1043232816
+    Data2: 1321473965
+    Data3: 1982565008
+    Data4: -1997865172
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2184
+--- !u!114 &6388760335480062310
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/Left Turn 1
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/Left Turn 1
+  Guid:
+    Data1: 1911019759
+    Data2: 1237390569
+    Data3: -997204831
+    Data4: 486199148
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1200
+--- !u!114 &6427803791668785606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/GoodLanding/Baguette COMPLETE 2
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/GoodLanding/Baguette COMPLETE 2
+  Guid:
+    Data1: 619662862
+    Data2: 1134071267
+    Data3: 1335532710
+    Data4: -1056460082
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1992
+--- !u!114 &6435429632159615048
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/RightTurn 2
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/RightTurn 2
+  Guid:
+    Data1: 1684965190
+    Data2: 1152582312
+    Data3: -775364424
+    Data4: 607603766
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1104
+--- !u!114 &6603545455623458332
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/Left Turn 3
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/Left Turn 3
+  Guid:
+    Data1: 489925611
+    Data2: 1133174879
+    Data3: 390402450
+    Data4: -2062626181
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1104
+--- !u!114 &6715690553252449803
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Chicane!/LowerVolume
+  m_EditorClassIdentifier: 
+  Name: LowerVolume
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1983163330
+    data2: 490393504
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &6801447103124406485
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sounds/RED
+  m_EditorClassIdentifier: 
+  Path: event:/Sounds/RED
+  Guid:
+    Data1: -509286730
+    Data2: 1093819509
+    Data3: -1756726356
+    Data4: -487545060
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 900
+--- !u!114 &6832846164893440532
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/GoodLanding/CheesyHill COMPLETE 2
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/GoodLanding/CheesyHill COMPLETE 2
+  Guid:
+    Data1: 1507262882
+    Data2: 1187132899
+    Data3: 1231003549
+    Data4: -34896765
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1848
+--- !u!114 &6956062680522666015
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/TheSmallBumpsAreUpNext
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/TheSmallBumpsAreUpNext
+  Guid:
+    Data1: 631180587
+    Data2: 1145727002
+    Data3: 543464069
+    Data4: -329300051
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1800
+--- !u!114 &7324997614701432866
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/PoringButtonWParameter/SoundOnVolumeChange
+  m_EditorClassIdentifier: 
+  Name: SoundOnVolumeChange
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 1
+  ID:
+    data1: 1896405371
+    data2: 216082511
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &7354963953117555644
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/GoodLanding/GoodLandingMULTI
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/GoodLanding/GoodLandingMULTI
+  Guid:
+    Data1: 1570964130
+    Data2: 1137484137
+    Data3: -1455098184
+    Data4: -1882894551
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1500
+--- !u!114 &7473076556493954497
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Crashes/OKThatFellOff
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Crashes/OKThatFellOff
+  Guid:
+    Data1: 2055032775
+    Data2: 1106611524
+    Data3: 1346265991
+    Data4: 424217810
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 2177176945668456714}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3096
+--- !u!114 &7578215727341528395
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/Left Turn 4
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/Left Turn 4
+  Guid:
+    Data1: -493597120
+    Data2: 1162745626
+    Data3: 404385196
+    Data4: -1717881410
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1104
+--- !u!114 &7713575456835167627
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/AaandTheyreOff/LowerVolume
+  m_EditorClassIdentifier: 
+  Name: LowerVolume
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1983163330
+    data2: 490393504
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &7991987099479859485
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Start/AaandTheyreOff
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Start/AaandTheyreOff
+  Guid:
+    Data1: -618863218
+    Data2: 1181875714
+    Data3: -228454487
+    Data4: -1472522832
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 7713575456835167627}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1400
+--- !u!114 &8317813723516298036
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/GoodLanding/AandTheyMadeIt
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/GoodLanding/AandTheyMadeIt
+  Guid:
+    Data1: -912187969
+    Data2: 1108241539
+    Data3: 837036430
+    Data4: 1441156795
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -7998721340972928967}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1656
+--- !u!114 &8529483685190906281
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/Left Turn 2
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/Left Turn 2
+  Guid:
+    Data1: -1781771821
+    Data2: 1094776165
+    Data3: -1135557199
+    Data4: -1110017563
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 960
+--- !u!114 &8595743389867382382
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/GoodLanding/Baguette COMPLETE 1
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/GoodLanding/Baguette COMPLETE 1
+  Guid:
+    Data1: -1873766185
+    Data2: 1335365150
+    Data3: -348922459
+    Data4: -1937709563
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1392
+--- !u!114 &8795487731981716136
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/GoodLanding/NoBaguetteThisTime
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/GoodLanding/NoBaguetteThisTime
+  Guid:
+    Data1: 939427486
+    Data2: 1086079069
+    Data3: -1903625832
+    Data4: 1591382888
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1608
+--- !u!114 &8862845259608610040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Announcer/Upcoming/Upcoming JumpsMULTI
+  m_EditorClassIdentifier: 
+  Path: event:/Announcer/Upcoming/Upcoming JumpsMULTI
+  Guid:
+    Data1: -378269630
+    Data2: 1165020207
+    Data3: 1847679401
+    Data4: -711261527
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2000
+--- !u!114 &9074394138391951187
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sounds/Bells
+  m_EditorClassIdentifier: 
+  Path: event:/Sounds/Bells
+  Guid:
+    Data1: 106879563
+    Data2: 1335104091
+    Data3: -1652011587
+    Data4: -344610616
+  Banks:
+  - {fileID: -6179628318457409136}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1961
+--- !u!114 &9143175981825127096
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/NiceJump/LowerVolume
+  m_EditorClassIdentifier: 
+  Name: LowerVolume
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1983163330
+    data2: 490393504
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bf7fc1857237a064a89ad9d299c9af04
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - highlightPassed: {instanceID: 0}
+  - finishLinePassed: {instanceID: 0}
+  - highlightRenderTexture: {instanceID: 0}
+  - highlightCamera: {instanceID: 0}
+  - replayData: {instanceID: 0}
+  - rawImageReplayPlayback: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

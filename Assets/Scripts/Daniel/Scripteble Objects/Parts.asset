@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 257a8a5ed735bf0439e56f612dde4f68, type: 3}
+  m_Name: Parts
+  m_EditorClassIdentifier: 
+  viechleBody:
+  - {fileID: 8646692762592197936, guid: 22fa67d28e38c7646938bcdbf477e20f, type: 3}
+  - {fileID: 6037586006308991907, guid: 01f095dd2c1109f4784f4e258d18c60b, type: 3}
+  viechleDrivetrain:
+  - {fileID: 7177462117388781776, guid: fd033f4c72f5f1344add2d4d8cb6a004, type: 3}
+  - {fileID: 178845962848595596, guid: 0f132efd29e330f47b882a7dc4a91870, type: 3}
+  viechleWheel:
+  - {fileID: 29688346479504734, guid: f851a138b5c81934683d266c291b105b, type: 3}
+  - {fileID: 3558173785050711012, guid: 13a2df4561d5a4b4ca87d5bef07344e0, type: 3}
+  seat: {fileID: 129651426854161723, guid: 1ade10a0436e53f49bc9a9da3720b80c, type: 3}
+  characterHead:
+  - {fileID: 5366778271665091467, guid: a2d7bec54f48dc64090b6b3b653b4b6e, type: 3}
+  - {fileID: 8887660517241129478, guid: 11ba980c92f19464c8efc421a8344714, type: 3}
+  - {fileID: 3927096933523562652, guid: c432d8978e6829744b9ae09f2242e7c5, type: 3}
+  - {fileID: 6827643835075459, guid: 97d6bee32241c8048beb03a571d5c907, type: 3}
+  - {fileID: 8870535304975883475, guid: 1e3bfaca282fbb44db0d8e750e2d6e06, type: 3}
+  characterBody:
+  - {fileID: 129651426854161723, guid: 1ade10a0436e53f49bc9a9da3720b80c, type: 3}
+  selectedViechleBody: {fileID: 8646692762592197936, guid: 22fa67d28e38c7646938bcdbf477e20f,
+    type: 3}
+  selectedViechleDrivetrain: 1
+  selectedViechleWheel: {fileID: 3558173785050711012, guid: 13a2df4561d5a4b4ca87d5bef07344e0,
+    type: 3}
+  selectedSeatPosition: 1
+  selectedCharacterHead: {fileID: 5366778271665091467, guid: a2d7bec54f48dc64090b6b3b653b4b6e,
+    type: 3}
+  selectedCharacterBody: {fileID: 919132149155446097, guid: 52cf43e1b1f16434aa380198aa1d97b4,
+    type: 3}

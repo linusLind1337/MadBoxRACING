@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GP_Scenes/Daniel UI/Start Menu.unity
+    guid: 94a81bbaa22ca694ba29747194ad5de8
+  - enabled: 1
+    path: Assets/Scenes/GP_Scenes/Luka Levels/Mont saint Michel.unity
+    guid: 98a438ad98ea2cc42bc4dcfb424e3d8b
+  - enabled: 1
+    path: Assets/Scenes/GP_Scenes/Daniel UI/Level menu.unity
+    guid: f53f8d7816e77ef42b0614aae66245b6
+  - enabled: 1
+    path: Assets/Scenes/GP_Scenes/Luka Levels/Variations Mont Saint/Version 2 Mont
+      saint Michel.unity
+    guid: 241aa6d24a753674bb4caba98a9ef8d2
+  - enabled: 1
+    path: Assets/Scenes/GP_Scenes/Luka Levels/Variations Mont Saint/Version 3 Mont
+      saint Michel 1.unity
+    guid: e2c1f17d0fbf4e94cb89491b4763daa1
+  - enabled: 1
+    path: Assets/Scenes/GP_Scenes/Luka Levels/Variations Mont Saint/Version 4 Mont
+      saint Michel.unity
+    guid: bbf88ab396ac0954db2ea696a882c95a
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000,
+      guid: 37f230ded7cbf5d4e97eafadf21f5037, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 32499e4d7ef1de34e904c2606da94dcf,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: e07402e3afd7f7f4eb4d7b1c0b2b77f7, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 4379104fa9f8f78488c47c08284a88c2, type: 2}
